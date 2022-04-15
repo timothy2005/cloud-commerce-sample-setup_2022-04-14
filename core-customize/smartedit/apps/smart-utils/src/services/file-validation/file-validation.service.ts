@@ -11,7 +11,7 @@ import {
 
 export const FILE_VALIDATION_CONFIG = {
     /** A list of file types supported by the platform. */
-    ACCEPTED_FILE_TYPES: ['jpeg', 'jpg', 'gif', 'bmp', 'tiff', 'tif', 'png'],
+    ACCEPTED_FILE_TYPES: ['jpeg', 'jpg', 'gif', 'bmp', 'tiff', 'tif', 'png', 'pdf', 'webp'],
     /** The maximum size, in bytes, for an uploaded file. */
     MAX_FILE_SIZE_IN_BYTES: 20 * 1024 * 1024,
     /** A map of all the internationalization keys used by the file validation service. */

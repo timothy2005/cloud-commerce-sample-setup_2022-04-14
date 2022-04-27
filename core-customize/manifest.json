@@ -200,7 +200,7 @@
                 },
                 {
                     "key": "storefrontContextRoot",
-                    "value": "/yacceleratorstorefront"
+                    "value": "yacceleratorstorefront"
                 }
             ],
             "webapps": [

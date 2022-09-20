@@ -1,0 +1,10 @@
+
+*.zip
+core-customize/.DS_Store
+core-customize/hybris/.DS_Store
+core-customize/smartedit/.DS_Store
+core-customize/smartedit/apps/.DS_Store
+core-customize/smartedit/apps/smart-utils/.DS_Store
+js-storefront/.DS_Store
+js-storefront/spartacusstore/.yarn/install-state.gz
+.DS_Store
